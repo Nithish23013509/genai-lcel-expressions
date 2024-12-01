@@ -61,7 +61,8 @@ if __name__ == "__main__":
 ```
 
 ### OUTPUT:
-![alt text](Image.png)
+![Image](https://github.com/user-attachments/assets/22b248fa-b5bf-4260-8409-1bd99d92062c)
+
 
 ### RESULT:
 Hence,the program to design and implement a LangChain Expression Language (LCEL) expression that utilizes at least two prompt parameters and three key components (prompt, model, and output parser), and to evaluate its functionality by analyzing relevant examples of its application in real-world scenarios is written and successfully executed.
